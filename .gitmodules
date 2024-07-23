@@ -1,0 +1,3 @@
+[submodule "keyboard_stl_generator"]
+	path = keyboard_stl_generator
+	url = https://github.com/jeffminton/keyboard_stl_generator.git
