@@ -1,3 +1,9 @@
 [submodule "keyboard_stl_generator"]
 	path = keyboard_stl_generator
 	url = https://github.com/jeffminton/keyboard_stl_generator.git
+[submodule "firmware/slave_firmware"]
+	path = firmware/slave_firmware
+	url = https://github.com/peto59/keyboard_slave_firmware.git
+[submodule "firmware/main_firmware"]
+	path = firmware/main_firmware
+	url = https://github.com/peto59/keyboard_main_firmware.git
