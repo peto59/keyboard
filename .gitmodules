@@ -7,3 +7,9 @@
 [submodule "firmware/main_firmware"]
 	path = firmware/main
 	url = https://github.com/peto59/keyboard_main_firmware.git
+[submodule "firmware/slave"]
+	path = firmware/slave
+	url = https://github.com/peto59/keyboard_slave_firmware.git
+[submodule "firmware/main"]
+	path = firmware/main
+	url = https://github.com/peto59/keyboard_main_firmware.git
