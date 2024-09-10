@@ -3,8 +3,9 @@ git submodule update --recursive --remote
 
 
 TODO:
-move FN to left
-put key names on silkscreen
-rename win2 to menu key
+Add/Move FN to left
+Put key names on silkscreen
+Rename win2 to menu key
 Fix space between arrows, F keys, printscreen, end/home
-leave space for cable between raspberry pi pico and jack female connector
+Leave space for cable between raspberry pi pico and jack female connector
+Add I2C pullup resistors to main board
